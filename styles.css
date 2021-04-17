@@ -83,8 +83,8 @@
 
 .article-head {
   height: 55vh;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/IMG_5470.JPG);
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/IMG_5470.JPG);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/1.JPG);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/1.JPG);
   background-size: cover;
   background-position: center;
   display: -ms-grid;
@@ -126,10 +126,5 @@
 span {
   display: block;
   margin-bottom: 20px;
-}
-
-.card:nth-child(2) {
-  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/2.jpg);
-  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/2.jpg);
 }
 /*# sourceMappingURL=styles.css.map */

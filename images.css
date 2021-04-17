@@ -1,0 +1,75 @@
+.card:nth-child(2) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/2.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/2.jpg);
+}
+
+.card:nth-child(3) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/3.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/3.jpg);
+}
+
+.card:nth-child(4) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/4.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/4.jpg);
+}
+
+.card:nth-child(5) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/5.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/5.jpg);
+}
+
+.card:nth-child(6) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/6.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/6.jpg);
+}
+
+.card:nth-child(7) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/7.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/7.jpg);
+}
+
+.card:nth-child(8) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/8.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/8.jpg);
+}
+
+.card:nth-child(9) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/9.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/9.jpg);
+}
+
+.card:nth-child(10) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/10.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/10.jpg);
+}
+
+.card:nth-child(11) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/11.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/11.jpg);
+}
+
+.card:nth-child(12) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/12.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/12.jpg);
+}
+
+.card:nth-child(13) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/13.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/13.jpg);
+}
+
+.card:nth-child(14) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/14.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/14.jpg);
+}
+
+.card:nth-child(15) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/1.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/1.jpg);
+}
+
+.card:nth-child(16) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/2.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/2.jpg);
+}
+/*# sourceMappingURL=images.css.map */

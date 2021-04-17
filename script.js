@@ -1,0 +1,1 @@
+console.log(items[3].article);
