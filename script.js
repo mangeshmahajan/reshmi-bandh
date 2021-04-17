@@ -1,1 +1,2 @@
-console.log(items[3].article);
+const elem = document.createElement('a');
+elem.classList.add('card');

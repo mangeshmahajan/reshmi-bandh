@@ -1,135 +1,269 @@
 .card:nth-child(2) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/2.jpg);
-  }
-  
-  .card:nth-child(3) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/3.jpg);
-  }
-  
-  .card:nth-child(4) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/4.jpg);
-  }
-  
-  .card:nth-child(5) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/5.jpg);
-  }
-  
-  .card:nth-child(6) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/6.jpg);
-  }
-  
-  .card:nth-child(7) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/7.jpg);
-  }
-  
-  .card:nth-child(8) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/8.jpg);
-  }
-  
-  .card:nth-child(9) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/9.jpg);
-  }
-  
-  .card:nth-child(10) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/10.jpg);
-  }
-  
-  .card:nth-child(11) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/11.jpg);
-  }
-  
-  .card:nth-child(12) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/12.jpg);
-  }
-  
-  .card:nth-child(13) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/13.jpg);
-  }
-  
-  .card:nth-child(14) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/14.jpg);
-  }
-  
-  .card:nth-child(15) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/1.jpg);
-  }
-  
-  .card:nth-child(16) {
-    background-image: linear-gradient(
-        -90deg,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.6)
-      ),
-      url(/img/mobile/2.jpg);
-  }
-  
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/2.jpg);
+}
+
+.card:nth-child(3) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/3.jpg);
+}
+
+.card:nth-child(4) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/4.jpg);
+}
+
+.card:nth-child(5) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/5.jpg);
+}
+
+.card:nth-child(6) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/6.jpg);
+}
+
+.card:nth-child(7) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/7.jpg);
+}
+
+.card:nth-child(8) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/8.jpg);
+}
+
+.card:nth-child(9) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/9.jpg);
+}
+
+.card:nth-child(10) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/10.jpg);
+}
+
+.card:nth-child(11) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/11.jpg);
+}
+
+.card:nth-child(12) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/12.jpg);
+}
+
+.card:nth-child(13) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/13.jpg);
+}
+
+.card:nth-child(14) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/14.jpg);
+}
+
+.card:nth-child(15) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/1.jpg);
+}
+
+.card:nth-child(16) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/2.jpg);
+}
+
+.card:nth-child(17) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/3.jpg);
+}
+
+.card:nth-child(18) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/4.jpg);
+}
+
+.card:nth-child(19) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/5.jpg);
+}
+
+.card:nth-child(20) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/6.jpg);
+}
+
+.card:nth-child(21) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/7.jpg);
+}
+
+.card:nth-child(22) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/8.jpg);
+}
+
+.card:nth-child(23) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/9.jpg);
+}
+
+.card:nth-child(24) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/10.jpg);
+}
+
+.card:nth-child(25) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/11.jpg);
+}
+
+.card:nth-child(26) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/12.jpg);
+}
+
+.card:nth-child(27) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/13.jpg);
+}
+
+.card:nth-child(28) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/14.jpg);
+}
+
+.card:nth-child(16) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/2.jpg);
+}
+
+.card:nth-child(16) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/2.jpg);
+}
+
+.card:nth-child(16) {
+  background-image: linear-gradient(
+      -90deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(/img/mobile/2.jpg);
+}

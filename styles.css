@@ -9,8 +9,8 @@
   display: -ms-grid;
   display: grid;
   place-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.5))), url(/img/4.JPG);
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(/img/4.JPG);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.5))), url(/img/5.JPG);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(/img/5.JPG);
   background-size: cover;
   background-position: center;
 }
@@ -60,8 +60,8 @@
   border-radius: 7px;
   -webkit-box-shadow: 5px 4px 14px 0px rgba(0, 0, 0, 0.14);
           box-shadow: 5px 4px 14px 0px rgba(0, 0, 0, 0.14);
-  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/1.jpg);
-  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/1.jpg);
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0.164)), to(rgba(0, 0, 0, 0.692))), url(/img/mobile/1.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0.164), rgba(0, 0, 0, 0.692)), url(/img/mobile/1.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -72,12 +72,12 @@
 }
 
 .cards-holder .card .card-writer {
-  margin-top: 6px;
+  margin-top: 8px;
   font-size: 15px;
 }
 
 .cards-holder .card .card-text {
-  margin: 45px 0 20px 15px;
+  margin: 55px 0 20px 20px;
   font-weight: 300;
 }
 
@@ -126,5 +126,12 @@
 span {
   display: block;
   margin-bottom: 20px;
+}
+
+bold {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 60px;
+  display: block;
 }
 /*# sourceMappingURL=styles.css.map */
