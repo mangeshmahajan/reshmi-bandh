@@ -39,8 +39,8 @@
 
 .instructions {
   margin: 60px auto;
-  width: 70%;
-  font-size: 14px;
+  width: 75%;
+  font-size: 15px;
   text-align: center;
   font-weight: 400;
   line-height: 1.4;
@@ -57,27 +57,27 @@
   display: block;
   color: white;
   border: 1px solid rgba(0, 0, 0, 0);
-  border-radius: 5px;
+  border-radius: 7px;
   -webkit-box-shadow: 5px 4px 14px 0px rgba(0, 0, 0, 0.14);
           box-shadow: 5px 4px 14px 0px rgba(0, 0, 0, 0.14);
-  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.5))), url(/img/mobile/1.jpg);
-  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(/img/mobile/1.jpg);
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/1.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/1.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .cards-holder .card .card-heading {
-  font-size: 26px;
+  font-size: 28px;
   font-weight: 500;
 }
 
 .cards-holder .card .card-writer {
-  margin-top: 4px;
-  font-size: 16px;
+  margin-top: 6px;
+  font-size: 15px;
 }
 
 .cards-holder .card .card-text {
-  margin: 29px 0 14px 15px;
+  margin: 45px 0 20px 15px;
   font-weight: 300;
 }
 
@@ -126,5 +126,10 @@
 span {
   display: block;
   margin-bottom: 20px;
+}
+
+.card:nth-child(2) {
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.6))), url(/img/mobile/2.jpg);
+  background-image: linear-gradient(-90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url(/img/mobile/2.jpg);
 }
 /*# sourceMappingURL=styles.css.map */
