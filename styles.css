@@ -83,8 +83,6 @@
 
 .article-head {
   height: 55vh;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/1.JPG);
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/1.JPG);
   background-size: cover;
   background-position: center;
   display: -ms-grid;
@@ -112,13 +110,13 @@
 }
 
 .main-article {
-  width: 90%;
+  width: 89%;
   margin: 0 auto;
-  font-family: Hind;
-  font-size: 16px;
+  font-family: "Hind";
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  line-height: 1.6;
+  line-height: 1.7;
   letter-spacing: 0em;
   text-align: left;
   padding-bottom: 7vh;
@@ -132,9 +130,114 @@ span {
 }
 
 bold {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 500;
   margin-top: 60px;
   display: block;
+}
+
+#indumati {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/17.JPG);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/17.JPG);
+}
+
+#lopa {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/11.JPG);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/11.JPG);
+}
+
+#pandurang {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/18.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/18.jpg);
+}
+
+#bz {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/5.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/5.jpg);
+}
+
+#yashashree {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/8.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/8.jpg);
+}
+
+#lata {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/15.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/15.jpg);
+}
+
+#mangal {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/20.png);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/20.png);
+}
+
+#aniket {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/23.png);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/23.png);
+}
+
+#najeer {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/23.png);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/23.png);
+}
+
+#rahul {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/24.png);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/24.png);
+}
+
+#leelavati {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/14.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/14.jpg);
+}
+
+#sunil {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/12.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/12.jpg);
+}
+
+#nalini {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/13.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/13.jpg);
+}
+
+#sharad {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/25.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/25.jpg);
+}
+
+#jyoti {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/9_2.png);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/9_2.png);
+}
+
+#kailas {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/2.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/2.jpg);
+}
+
+#bhavesh {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/6.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/6.jpg);
+}
+
+#vaibhav {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/10.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/10.jpg);
+}
+
+#vilas {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/13.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/13.jpg);
+}
+
+#vaishali {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/18.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/18.jpg);
+}
+
+#smita {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/14.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/14.jpg);
 }
 /*# sourceMappingURL=styles.css.map */

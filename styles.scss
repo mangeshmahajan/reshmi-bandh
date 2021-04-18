@@ -93,15 +93,27 @@
   }
 }
 
+// #hello {
+//   background-image: linear-gradient(
+//       180deg,
+//       rgba(0, 0, 0, 0),
+//       rgba(0, 0, 0, 0.089),
+//       rgba(0, 0, 0, 0.527)
+//     ),
+//     url(/img/2.JPG);
+// }
+
 .article-head {
   height: 55vh;
-  background-image: linear-gradient(
-      180deg,
-      rgba(0, 0, 0, 0),
-      rgba(0, 0, 0, 0.089),
-      rgba(0, 0, 0, 0.527)
-    ),
-    url(/img/1.JPG);
+
+  // background-image: linear-gradient(
+  //     180deg,
+  //     rgba(0, 0, 0, 0),
+  //     rgba(0, 0, 0, 0.089),
+  //     rgba(0, 0, 0, 0.527)
+  //   ),
+  //   url(/img/2.JPG);
+
   background-size: cover;
   background-position: center;
 
@@ -122,7 +134,7 @@
     font-weight: 600;
     padding-bottom: 15px;
     // width: 97%;
-    
+
     margin: 0 auto;
   }
 
@@ -133,14 +145,14 @@
 }
 
 .main-article {
-  width: 90%;
+  width: 89%;
   margin: 0 auto;
 
-  font-family: Hind;
-  font-size: 16px;
+  font-family: "Hind";
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  line-height: 1.6;
+  line-height: 1.7;
   letter-spacing: 0em;
   text-align: left;
 
@@ -154,9 +166,221 @@ span {
   margin-bottom: 20px;
 }
 
-bold{
-  font-size: 20px;
+bold {
+  font-size: 25px;
   font-weight: 500;
   margin-top: 60px;
   display: block;
+}
+
+#indumati {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/17.JPG);
+}
+
+#lopa {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/11.JPG);
+}
+
+#pandurang {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/18.jpg);
+}
+
+#bz {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/5.jpg);
+}
+
+#yashashree {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/8.jpg);
+}
+
+#lata {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/15.jpg);
+}
+
+#mangal {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/20.png);
+}
+
+#aniket {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/23.png);
+}
+
+#najeer {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/23.png);
+}
+
+#rahul {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/24.png);
+}
+
+#leelavati {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/14.jpg);
+}
+
+#sunil {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/12.jpg);
+}
+
+#nalini {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/13.jpg);
+}
+
+#sharad {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/25.jpg);
+}
+
+#jyoti {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/9_2.png);
+}
+
+#kailas {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/2.jpg);
+}
+
+#bhavesh {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/6.jpg);
+}
+
+#vaibhav {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/10.jpg);
+}
+
+
+#vilas {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/13.jpg);
+}
+
+#vaishali {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/18.jpg);
+}
+
+
+#smita {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.089),
+      rgba(0, 0, 0, 0.527)
+    ),
+    url(/img/14.jpg);
 }
