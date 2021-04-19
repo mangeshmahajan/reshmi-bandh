@@ -257,4 +257,9 @@ bold {
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/3.jpg);
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/3.jpg);
 }
+
+#mahendra {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.089)), to(rgba(0, 0, 0, 0.527))), url(/img/7.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.527)), url(/img/7.jpg);
+}
 /*# sourceMappingURL=styles.css.map */
